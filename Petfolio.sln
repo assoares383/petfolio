@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Petfolio.API", "Petfolio.API.csproj", "{37531BA8-89E4-4DC0-8DBE-6BF50803A364}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Petfolio.Communication", "Petfolio.Communication\Petfolio.Communication.csproj", "{B15C2013-AB8F-42B0-8846-E909FE99414F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Petfolio.Application", "Petfolio.Application\Petfolio.Application.csproj", "{513401D2-E9D9-4BC6-814F-4C997999F494}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37531BA8-89E4-4DC0-8DBE-6BF50803A364}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37531BA8-89E4-4DC0-8DBE-6BF50803A364}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37531BA8-89E4-4DC0-8DBE-6BF50803A364}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37531BA8-89E4-4DC0-8DBE-6BF50803A364}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B15C2013-AB8F-42B0-8846-E909FE99414F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B15C2013-AB8F-42B0-8846-E909FE99414F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B15C2013-AB8F-42B0-8846-E909FE99414F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B15C2013-AB8F-42B0-8846-E909FE99414F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{513401D2-E9D9-4BC6-814F-4C997999F494}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{513401D2-E9D9-4BC6-814F-4C997999F494}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{513401D2-E9D9-4BC6-814F-4C997999F494}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{513401D2-E9D9-4BC6-814F-4C997999F494}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

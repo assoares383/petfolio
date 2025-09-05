@@ -1,0 +1,11 @@
+/Users/alexandresoares/Desktop/2025/rocketseat/dotnet/Petfolio/Petfolio.Communication/bin/Debug/net8.0/Petfolio.Communication.deps.json
+/Users/alexandresoares/Desktop/2025/rocketseat/dotnet/Petfolio/Petfolio.Communication/bin/Debug/net8.0/Petfolio.Communication.dll
+/Users/alexandresoares/Desktop/2025/rocketseat/dotnet/Petfolio/Petfolio.Communication/bin/Debug/net8.0/Petfolio.Communication.pdb
+/Users/alexandresoares/Desktop/2025/rocketseat/dotnet/Petfolio/Petfolio.Communication/obj/Debug/net8.0/Petfolio.Communication.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexandresoares/Desktop/2025/rocketseat/dotnet/Petfolio/Petfolio.Communication/obj/Debug/net8.0/Petfolio.Communication.AssemblyInfoInputs.cache
+/Users/alexandresoares/Desktop/2025/rocketseat/dotnet/Petfolio/Petfolio.Communication/obj/Debug/net8.0/Petfolio.Communication.AssemblyInfo.cs
+/Users/alexandresoares/Desktop/2025/rocketseat/dotnet/Petfolio/Petfolio.Communication/obj/Debug/net8.0/Petfolio.Communication.csproj.CoreCompileInputs.cache
+/Users/alexandresoares/Desktop/2025/rocketseat/dotnet/Petfolio/Petfolio.Communication/obj/Debug/net8.0/Petfolio.Communication.dll
+/Users/alexandresoares/Desktop/2025/rocketseat/dotnet/Petfolio/Petfolio.Communication/obj/Debug/net8.0/refint/Petfolio.Communication.dll
+/Users/alexandresoares/Desktop/2025/rocketseat/dotnet/Petfolio/Petfolio.Communication/obj/Debug/net8.0/Petfolio.Communication.pdb
+/Users/alexandresoares/Desktop/2025/rocketseat/dotnet/Petfolio/Petfolio.Communication/obj/Debug/net8.0/ref/Petfolio.Communication.dll

@@ -1,0 +1,7 @@
+/Users/alexandresoares/Desktop/2025/rocketseat/dotnet/Petfolio/obj/Debug/net8.0/Petfolio.API.csproj.AssemblyReference.cache
+/Users/alexandresoares/Desktop/2025/rocketseat/dotnet/Petfolio/obj/Debug/net8.0/Petfolio.API.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexandresoares/Desktop/2025/rocketseat/dotnet/Petfolio/obj/Debug/net8.0/Petfolio.API.AssemblyInfoInputs.cache
+/Users/alexandresoares/Desktop/2025/rocketseat/dotnet/Petfolio/obj/Debug/net8.0/Petfolio.API.AssemblyInfo.cs
+/Users/alexandresoares/Desktop/2025/rocketseat/dotnet/Petfolio/obj/Debug/net8.0/Petfolio.API.csproj.CoreCompileInputs.cache
+/Users/alexandresoares/Desktop/2025/rocketseat/dotnet/Petfolio/obj/Debug/net8.0/Petfolio.API.MvcApplicationPartsAssemblyInfo.cs
+/Users/alexandresoares/Desktop/2025/rocketseat/dotnet/Petfolio/obj/Debug/net8.0/Petfolio.API.MvcApplicationPartsAssemblyInfo.cache
