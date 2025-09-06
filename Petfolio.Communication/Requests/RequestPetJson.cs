@@ -2,7 +2,7 @@ using Petfolio.Communication.Enums;
 
 namespace Petfolio.Communication.Requests;
 
-public class RequestRegisterPetJson
+public class RequestPetJson
 {
     public string Name { get; set; }
     public DateTime Birthday { get; set; }

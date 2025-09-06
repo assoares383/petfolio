@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Petfolio.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ab57d3a050f3ce811240b838063c0dfac417b7ac")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+206bb12566c763e3671eefda9951c564899d7420")]
 [assembly: System.Reflection.AssemblyProductAttribute("Petfolio.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Petfolio.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
