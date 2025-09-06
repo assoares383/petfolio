@@ -115,3 +115,5 @@
 /Users/alexandresoares/Desktop/2025/rocketseat/dotnet/Petfolio/obj/Debug/net8.0/Petfolio.API.pdb
 /Users/alexandresoares/Desktop/2025/rocketseat/dotnet/Petfolio/obj/Debug/net8.0/Petfolio.API.genruntimeconfig.cache
 /Users/alexandresoares/Desktop/2025/rocketseat/dotnet/Petfolio/obj/Debug/net8.0/ref/Petfolio.API.dll
+/Users/alexandresoares/Desktop/2025/rocketseat/dotnet/Petfolio/bin/Debug/net8.0/Petfolio.Application/obj/project.packagespec.json
+/Users/alexandresoares/Desktop/2025/rocketseat/dotnet/Petfolio/bin/Debug/net8.0/Petfolio.Communication/obj/project.packagespec.json

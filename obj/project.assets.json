@@ -938,6 +938,9 @@
       "Petfolio.Application/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Petfolio.Communication": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/Petfolio.Application.dll": {}
         },

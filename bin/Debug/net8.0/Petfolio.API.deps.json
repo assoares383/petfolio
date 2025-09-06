@@ -524,6 +524,9 @@
       },
       "System.Threading.Channels/6.0.0": {},
       "Petfolio.Application/1.0.0": {
+        "dependencies": {
+          "Petfolio.Communication": "1.0.0"
+        },
         "runtime": {
           "Petfolio.Application.dll": {
             "assemblyVersion": "1.0.0",

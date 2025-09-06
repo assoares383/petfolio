@@ -8,3 +8,7 @@
 /Users/alexandresoares/Desktop/2025/rocketseat/dotnet/Petfolio/Petfolio.Application/obj/Debug/net8.0/refint/Petfolio.Application.dll
 /Users/alexandresoares/Desktop/2025/rocketseat/dotnet/Petfolio/Petfolio.Application/obj/Debug/net8.0/Petfolio.Application.pdb
 /Users/alexandresoares/Desktop/2025/rocketseat/dotnet/Petfolio/Petfolio.Application/obj/Debug/net8.0/ref/Petfolio.Application.dll
+/Users/alexandresoares/Desktop/2025/rocketseat/dotnet/Petfolio/Petfolio.Application/bin/Debug/net8.0/Petfolio.Communication.dll
+/Users/alexandresoares/Desktop/2025/rocketseat/dotnet/Petfolio/Petfolio.Application/bin/Debug/net8.0/Petfolio.Communication.pdb
+/Users/alexandresoares/Desktop/2025/rocketseat/dotnet/Petfolio/Petfolio.Application/obj/Debug/net8.0/Petfolio.Application.csproj.AssemblyReference.cache
+/Users/alexandresoares/Desktop/2025/rocketseat/dotnet/Petfolio/Petfolio.Application/obj/Debug/net8.0/Petfolio.32F76676.Up2Date

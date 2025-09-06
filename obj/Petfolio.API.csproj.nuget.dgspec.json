@@ -115,7 +115,11 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "/Users/alexandresoares/Desktop/2025/rocketseat/dotnet/Petfolio/Petfolio.Communication/Petfolio.Communication.csproj": {
+                "projectPath": "/Users/alexandresoares/Desktop/2025/rocketseat/dotnet/Petfolio/Petfolio.Communication/Petfolio.Communication.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

@@ -11,4 +11,8 @@
       <Compile Remove="Class1.cs" />
     </ItemGroup>
 
+    <ItemGroup>
+      <ProjectReference Include="..\Petfolio.Communication\Petfolio.Communication.csproj" />
+    </ItemGroup>
+
 </Project>
